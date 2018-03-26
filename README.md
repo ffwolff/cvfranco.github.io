@@ -1,2 +1,2 @@
-# https://ffwolff-curriculo.github.io
+# http://ffwolff-curriculo.github.io
 Currículo Interativo
